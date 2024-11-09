@@ -250,3 +250,21 @@ html, body{
   column-gap: 30px;
 }
 
+@media (max-width: 620px) {
+  .header{
+    min-height: unset;
+  }
+  .header__title{
+    font-size: 20px;
+  }
+  .header__title strong{
+    font-size: 30px;
+  }
+  .section{
+    padding: 40px 0;
+  }
+  .title-1{
+    margin-bottom: 30px;
+    font-size: 40px;
+  }
+}
