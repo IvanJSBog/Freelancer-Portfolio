@@ -219,8 +219,6 @@ html, body{
   max-width: 100%;
   margin-bottom: 40px;
 }
-.project-details__description {
-}
 
 /* Content list */
 .title-2{
@@ -236,9 +234,6 @@ html, body{
   align-items: center;
   row-gap: 40px;
   text-align: center;
-}
-.content-list__item {
-
 }
 
 /* Footer */
